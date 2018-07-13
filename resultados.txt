@@ -1,0 +1,11 @@
+Primeira palavra:
+
+['22122', '22122', '22222', '21122', '22222', '21222']
+2115c109ad31cf555e39e7346b4a4670bbde665a110fcd63665f9a2c88b1f326
+cucucxclintcxcobble
+
+
+Segunda palavra:
+['21221', '22121', '22222', '22122', '21122', '12222']
+bf0b08574e683e9c0db4b868b6b5145bda532722c3a215533e89ced1330b5ef2
+cobbctcxcuclintana
